@@ -1,4 +1,6 @@
 # sql-walmart-queries
+![Screenshot 2024-02-06 134336](https://github.com/sandika104/sql-walmart-queries/assets/153609763/33c6d3ef-2ff5-459f-9355-3f7a94dfaf21)
+
 ## About
 About This project contains a description of the performance of each existing product, city and branch by considering customer behavior towards other variables.
 I only use SQL language to describe each data and look for new meanings to answer existing questions.
